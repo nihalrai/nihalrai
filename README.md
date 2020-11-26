@@ -1,6 +1,9 @@
 ## Nihal Rai
 Software Engineer
 
+[![LinkedIn](https://img.shields.io/badge/@niihalrai-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/niihalrai)
+[![GitHub](https://img.shields.io/badge/@nihalrai-black?style=social&logo=github)](https://github.com/nihalrai)
+[![Twitter](https://img.shields.io/badge/@niihalrai-black?style=social&logo=twitter)](https://twitter.com/niihalrai)
 <!--
 **nihalrai/nihalrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: 
