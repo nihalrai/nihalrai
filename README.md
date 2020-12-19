@@ -12,3 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/niihalrai)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Endou Mamoru!
+
+<div style="text-align: justify">
+  
+![image](https://github-readme-stats.vercel.app/api?username=nihalrai&hide_border=true)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=nihalrai&layout=compact&hide_border=true&&langs_count=9)
+
+</div>  
+  
