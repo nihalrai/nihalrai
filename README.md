@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Endou Mamoru!
 
+<!--
+Thanks to https://github.com/coslyk for stats api information
+-->
+
 <div style="text-align: justify">
   
 ![image](https://github-readme-stats.vercel.app/api?username=nihalrai&hide_border=true)
